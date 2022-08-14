@@ -1,0 +1,25 @@
+h1{
+    background-color: rgb(255, 199, 126);
+}
+a{
+    background: antiquewhite;
+    
+}
+button{
+    background-image: linear-gradient(to bottom right, red, yellow);
+    display: block;
+    top: 50%;
+}
+a{
+    display: block;
+    position: relative;
+    align-items: center;
+    text-align: center;
+    background-color: aqua;
+}
+p{
+    display: block;
+    align-items: center;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}

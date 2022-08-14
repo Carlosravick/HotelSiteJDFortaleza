@@ -1,0 +1,13 @@
+h1{
+    background-color: rgb(255, 199, 126);
+}
+a{
+    background: antiquewhite;
+    
+}
+button{
+    background-image: linear-gradient(to bottom right, red, yellow);
+    align-items: center;
+    text-align: center;
+    top: 50%;
+}
