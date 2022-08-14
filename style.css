@@ -1,0 +1,17 @@
+img{
+ display: block;
+ margin: 0px auto;
+}
+h1{
+    text-align: center;
+}
+button{
+    background-color: rgb(207, 208, 209);
+    width: 110px;
+    display: block;
+    text-align: center;
+    margin: 0px auto;
+}
+body{
+    background-image: linear-gradient(to right, rgb(190, 184, 184) , rgb(61, 61, 57));
+}
